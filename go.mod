@@ -1,10 +1,3 @@
-module github.com/deepfence/FlowMeter
-
-go 1.18
-
-require (
-	github.com/google/gopacket v1.1.19
-	github.com/sirupsen/logrus v1.8.1
-)
-
-require golang.org/x/sys v0.0.0-20191026070338-33540a1f6037 // indirect
+version https://git-lfs.github.com/spec/v1
+oid sha256:c395fd2ed59c389118866928f6e6afdc76fd69363ae4f8eaa690e7a5258913fc
+size 214
